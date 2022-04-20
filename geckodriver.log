@@ -1347,3 +1347,1726 @@ JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
 JavaScript warning: https://pagead2.googlesyndication.com/bg/3b8ZtKHcFUSYKihZpywKVICyDtFsaoLwoCuDyEZifyk.js line 1 > eval line 5030 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1648997369553	Marionette	INFO	Stopped listening on port 60463
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649155732761	geckodriver	INFO	Listening on 127.0.0.1:51111
+1649155735842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51112" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileqC5GZZ"
+1649155737236	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileqC5GZZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51112/devtools/browser/778975a9-bebf-4024-a48c-a5d2608c8baa
+1649155742964	Marionette	INFO	Listening on port 51117
+1649155743525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript error: https://static.wuzzuf.net/index-87829d6a88fe46aae302.js, line 2: ChunkLoadError: Loading chunk 282 failed.
+(error: https://static.wuzzuf.net/282-cc0d5f47c50c81bd3720.js)
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649155844688	Marionette	INFO	Stopped listening on port 51117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649155850890	geckodriver	INFO	Listening on 127.0.0.1:51356
+1649155854238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51357" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileLl5iik"
+1649155855527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileLl5iik\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51357/devtools/browser/1842cb2d-a3f9-4262-8a06-2344d3a6aca2
+1649155862183	Marionette	INFO	Listening on port 51364
+1649155862650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7187 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1929 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2488 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4053 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2129:35
+addAllSources@resource://devtools/server/actors/thread.js:1484:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:152:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:624:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:530:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+console.error: "Unable to find target with innerWindowId:2147483842"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483866/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:578:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483860/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483862/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483864/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483860/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483862/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483864/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483860/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483862/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483864/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 372: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 372: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm, line 372: Error: Trying to destroy a target actor that doesn't exists, or has already been destroyed. Watcher Actor ID:server0.conn0.watcher2
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 837 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6576 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649156386956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649156391026	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2322 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649156394848	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649156426694	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1649156430098	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5555 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1126 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649156551944	Marionette	INFO	Stopped listening on port 51364
+[Parent 7616, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1649156564285	geckodriver	INFO	Listening on 127.0.0.1:52310
+1649156567348	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52311" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileV5uWNA"
+1649156568150	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileV5uWNA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52311/devtools/browser/8b426a29-6c63-4f78-8fa2-2e03986a93c1
+1649156572765	Marionette	INFO	Listening on port 52316
+1649156573241	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+1649156582978	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7740 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2957 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7391 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 828 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649156728498	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2129:35
+addAllSources@resource://devtools/server/actors/thread.js:1484:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:152:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:624:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:530:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649158492158	Marionette	INFO	Stopped listening on port 52316
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649158497639	geckodriver	INFO	Listening on 127.0.0.1:53065
+1649158500717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53066" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofile9lMggW"
+1649158501508	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofile9lMggW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53066/devtools/browser/607eef18-f083-44da-ac16-4dfe3b94a377
+1649158506373	Marionette	INFO	Listening on port 53072
+1649158506582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6895 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2141 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649158657582	Marionette	INFO	Stopped listening on port 53072
+1649158766741	geckodriver	INFO	Listening on 127.0.0.1:53369
+1649158769841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53370" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilehF2qmB"
+1649158770651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilehF2qmB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53370/devtools/browser/af679706-2570-42c8-9cfa-f4be62b30a04
+1649158775110	Marionette	INFO	Listening on port 53375
+1649158775266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649158851370	Marionette	INFO	Stopped listening on port 53375
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649158874405	geckodriver	INFO	Listening on 127.0.0.1:53567
+1649158877477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53568" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofile4QZQnT"
+1649158878223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofile4QZQnT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53568/devtools/browser/db6305bb-5c96-4277-a91e-1920f6a2eba0
+1649158882736	Marionette	INFO	Listening on port 53573
+1649158882855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4355 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3420 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2426 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649159548861	Marionette	INFO	Stopped listening on port 53573
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649159557790	geckodriver	INFO	Listening on 127.0.0.1:56630
+1649159560876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56631" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileh4on2h"
+1649159561674	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileh4on2h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56631/devtools/browser/45d824f5-7a23-4018-bf85-a24f3c6e36b1
+1649159566352	Marionette	INFO	Listening on port 56636
+1649159566734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4536 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 785 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2605 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:448:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:412:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2129:35
+addAllSources@resource://devtools/server/actors/thread.js:1484:14
+watch@resource://devtools/server/actors/resources/sources.js:62:17
+watchResources@resource://devtools/server/actors/resources/index.js:242:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:152:24
+addSessionDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:52:20
+_addSessionDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:624:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:530:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false'
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147483848"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483898/domwalker25, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483899/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483899/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483900/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483900/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Unable to find target with innerWindowId:2147483898"
+console.error: "Unable to find target with innerWindowId:2147483898"
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3369: TypeError: data.frameData.id is null
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483899/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483900/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: "Unable to find target with innerWindowId:2147483884"
+console.error: "Unable to find target with innerWindowId:2147483899"
+console.error: "Unable to find target with innerWindowId:2147483898"
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147483904"
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483916/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483916/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\n_getWalker@resource://devtools/client/fronts/inspector.js:90:30\ninitialize@resource://devtools/client/fronts/inspector.js:79:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 106: Error: Connection closed, pending request to server0.conn0.windowGlobal2147483916/inspectorActor4, type getWalker failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:292:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+_getWalker@resource://devtools/client/fronts/inspector.js:90:30
+initialize@resource://devtools/client/fronts/inspector.js:79:12
+
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147483916"
+console.error: "Unable to find target with innerWindowId:2147483916"
+console.error: "Unable to find target with innerWindowId:2147483916"
+console.error: "Unable to find target with innerWindowId:2147483916"
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Failed to start [root-node] legacy listener for target null" (new Error("Connection closed, pending request to server0.conn0.windowGlobal2147483925/domwalker25, type watchRootNode failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nmodule.exports@resource://devtools/shared/commands/resource/legacy-listeners/root-node.js:60:31\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1508 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3079 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649160448048	Marionette	INFO	Stopped listening on port 56636
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649160467835	geckodriver	INFO	Listening on 127.0.0.1:57424
+1649160470905	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57425" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilej7PnB7"
+1649160471723	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilej7PnB7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57425/devtools/browser/d14ceb4b-6481-4815-a8ee-83b5465dab74
+1649160476639	Marionette	INFO	Listening on port 57430
+1649160476789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6668 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4923 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1506 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5321 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4676 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2871 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: resource://devtools/client/jsonview/Sniffer.jsm, line 56: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3031 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 367 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147484043"
+console.error: "Unable to find target with innerWindowId:2147484046"
+console.error: "Unable to find target with innerWindowId:2147484048"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5532 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 327))
+InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment: _createTargetActor/<@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:327:12
+newListener@resource://devtools/shared/event-emitter.js:173:27
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+destroy@resource://devtools/server/actors/targets/window-global.js:743:10
+module.exports/proto.destroy@resource://devtools/server/actors/targets/target-actor-mixin.js:244:30
+instantiate@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:242:26
+handleEvent@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:651:12
+
+console.error: "Unable to find target with innerWindowId:2147484075"
+console.error: "Unable to find target with innerWindowId:2147484073"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3974 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: "Unable to find target with innerWindowId:2147484109"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1649161362850	Marionette	INFO	Stopped listening on port 57430
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649161432103	geckodriver	INFO	Listening on 127.0.0.1:62848
+1649161435191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62849" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileUVXT7s"
+1649161436080	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileUVXT7s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62849/devtools/browser/472c713f-161d-457d-a546-0cedf1709bf7
+1649161441548	Marionette	INFO	Listening on port 62854
+1649161441650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2913 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5395 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7399 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+1649161574693	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1649161575599	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6233 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649161885554	Marionette	INFO	Stopped listening on port 62854
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PSessionStorageObserver::Msg_Observe) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_Cancel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late 1649161888099	Marionette	INFO	Stopped listening on port 63445
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1649161898855	geckodriver	INFO	Listening on 127.0.0.1:63559
+1649161901922	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63560" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofiledSgX4C"
+1649161902685	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofiledSgX4C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63560/devtools/browser/bc84f265-4d42-473b-af3a-d3d103275ccc
+1649161907183	Marionette	INFO	Listening on port 63565
+1649161907300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3746 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3509 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649162021063	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5921 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 434: TypeError: channel is null
+console.error: "Unable to find target with innerWindowId:2147483965"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowAcconsole.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileqJEKbr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64072/devtools/browser/defeab52-57cb-450f-ac09-9ee4887768b6
+1649162257796	Marionette	INFO	Listening on port 64077
+1649162257960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1038 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649162485203	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6085 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649162742997	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 709 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649162829596	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4093 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649162898983	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649163083496	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 220 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4665 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649163175662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 6978 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 940 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649163224448	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649163233393	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1011 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649163431222	Marionette	INFO	Stopped listening on port 64077
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1649163432829	geckodriver	INFO	Listening on 127.0.0.1:49300
+1649163435924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49301" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilekbgDlZ"
+1649163436997	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilekbgDlZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49301/devtools/browser/800fcba6-7436-47dc-b753-80afc9c6f033
+1649163442492	Marionette	INFO	Listening on port 49307
+1649163442592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 1545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7795 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649163539221	Marionette	INFO	Stopped listening on port 49307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1649163540904	geckodriver	INFO	Listening on 127.0.0.1:49584
+1649163543996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49585" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileFPxzkL"
+1649163544864	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileFPxzkL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49585/devtools/browser/1e1fb411-0579-4faa-8c93-8656c09c57f6
+1649163549707	Marionette	INFO	Listening on port 49590
+1649163549878	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2430 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649163713294	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3895 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 68 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649164001600	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5003 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649164055785	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649164084305	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 4657 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5810 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 505 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1649164175532	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 3673 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 7510 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 5050 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+1649164268842	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+1649164278200	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-21bf9edd71f119cd761e.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/xnyDcLTJFFqRrOSh_tGs93TmBGWOIlQl9rUvBjKFBOc.js line 1 > eval line 2217 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649164377819	Marionette	INFO	Stopped listening on port 49590
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Child][PContentChild] Error: Send(msgname=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Msg_DestroyBrowsingContextGroup) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PContent::Reply_DiscardBrowsingContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649332337612	geckodriver	INFO	Listening on 127.0.0.1:57878
+1649332340701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57879" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofiletjQjoU"
+1649332342809	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofiletjQjoU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57879/devtools/browser/2ac2b718-49c5-449d-9526-7c522fea0a13
+1649332351373	Marionette	INFO	Listening on port 57895
+1649332351588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4139 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 3483 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649332594598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 5687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649332722046	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649333014843	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 5862 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 2575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1539 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649333529673	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649333553453	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 7699 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 545 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 4547 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649334069041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 5313 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 7755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649334250140	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649334352304	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 3907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649335357423	geckodriver	INFO	Listening on 127.0.0.1:60607
+1649335360511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60608" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileEiSB1N"
+1649335361893	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofileEiSB1N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60608/devtools/browser/36ee4d30-455e-47dd-883a-46309b6fd31d
+1649335370022	Marionette	INFO	Listening on port 60614
+1649335370244	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649335409859	Marionette	INFO	Stopped listening on port 60614
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][PContentParent] Error: Send(msgname=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1649335426287	geckodriver	INFO	Listening on 127.0.0.1:60741
+1649335429353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60742" "-no-remote" "-profile" "C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilep9MriK"
+1649335430424	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\esraa\\AppData\\Local\\Temp\\rust_mozprofilep9MriK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60742/devtools/browser/4b3f38e5-5599-4df4-a280-0f76cab0e984
+1649335437241	Marionette	INFO	Listening on port 60747
+1649335437707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649335542259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649335641043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649335715227	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1521 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://wuzzuf.net"
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649336065620	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649336176010	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649336262162	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649336353594	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://static.wuzzuf.net/vendor-94548e2e596abc9e0b21.js, line 2: Error: Request aborted
+1649336446070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+JavaScript warning: https://pagead2.googlesyndication.com/bg/UUQTj9cPGsMVMqvEOxLdokHV79mACYo3jc0rpEwmHZs.js line 1 > eval line 1702 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1649360521096	Marionette	INFO	Stopped listening on port 60747
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PWebSocket::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
