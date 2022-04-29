@@ -1,7 +1,14 @@
 # Jobs_Analysis_DashBoard
 
-
-![alt](Dashbord_image.png)
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true">
+    <source src="Media/dashboard_video.mp4" type="video/mp4">
+    <source src="Media/dashboard_video.ogg" type="video/ogg">
+    <source src="Media/dashboard_video.webm" type="video/webm">
+  </video>
+</figure>
+<!-- blank line -->
 
 ## About:
 This project is a data visualization project for AI and Data Jobs analysis in Egypt.
