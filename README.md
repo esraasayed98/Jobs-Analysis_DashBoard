@@ -1,5 +1,11 @@
 # Jobs_Analysis_DashBoard
 
+<<<<<<< HEAD
+=======
+![alt](Media/Dashbord_image.png)
+
+![alt](Media/Dashboard_image2.png)
+>>>>>>> f299ec0b2c2c54475ef82017f43210038b121365
 
 
 ![alt](Media/Dashboard_image.png)
